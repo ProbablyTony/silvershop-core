@@ -67,7 +67,6 @@
     "lint": "phpcs -s src/ tests/",
     "test": "phpunit"
   },
-  "minimum-stability": "dev",
   "prefer-stable": true,
   "config": {
     "allow-plugins": {
