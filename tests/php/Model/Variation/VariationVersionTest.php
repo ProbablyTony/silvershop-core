@@ -18,7 +18,9 @@ use SilverStripe\Dev\SapphireTest;
 class VariationVersionTest extends SapphireTest
 {
     public static $fixture_file   = '../../Fixtures/variations.yml';
+
     public static $disable_theme  = true;
+
     protected static $use_draft_site = true;
 
     /**
